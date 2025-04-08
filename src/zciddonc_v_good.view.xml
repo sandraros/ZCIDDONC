@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_VIEW" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD25V>
+    <VIEWNAME>ZCIDDONC_V_GOOD</VIEWNAME>
+    <AS4LOCAL>A</AS4LOCAL>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <AGGTYPE>V</AGGTYPE>
+    <ROOTTAB>ZCIDDONC_T_GOOD</ROOTTAB>
+    <DDTEXT>Demo Code Inspector ZCL_CIDDONC_CI_TEST</DDTEXT>
+    <VIEWCLASS>D</VIEWCLASS>
+    <VIEWGRANT>R</VIEWGRANT>
+   </DD25V>
+   <DD26V_TABLE>
+    <DD26V>
+     <VIEWNAME>ZCIDDONC_V_GOOD</VIEWNAME>
+     <TABNAME>ZCIDDONC_T_GOOD</TABNAME>
+     <TABPOS>0001</TABPOS>
+     <FORTABNAME>ZCIDDONC_T_GOOD</FORTABNAME>
+    </DD26V>
+   </DD26V_TABLE>
+   <DD27P_TABLE>
+    <DD27P>
+     <VIEWFIELD>CLIENT</VIEWFIELD>
+     <TABNAME>ZCIDDONC_T_GOOD</TABNAME>
+     <FIELDNAME>CLIENT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+    </DD27P>
+    <DD27P>
+     <VIEWFIELD>GOOD</VIEWFIELD>
+     <TABNAME>ZCIDDONC_T_GOOD</TABNAME>
+     <FIELDNAME>GOOD</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+    </DD27P>
+   </DD27P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
